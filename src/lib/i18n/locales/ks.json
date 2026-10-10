@@ -1,0 +1,11 @@
+{
+  "language": "زبان", "required": "ضروری", "optional": "اختیاری",
+  "village": "گام یا جاے", "state": "ریاست", "district": "ضلع",
+  "crop": "فصل", "variety": "قسم", "quantity": "مقدار", "unit": "اکائی",
+  "kg": "کلوگرام (kg)", "quintal": "کونٹل (100 kg)", "tonne": "ٹن (1,000 kg)", "bag": "بوری",
+  "transportMode": "ٹرانسپورٹ انتظام", "selling": "مزدوری تہٕ فروخت خرچ",
+  "amount": "رقم (₹)", "unknown": "نامعلوم", "unavailable": "دستیاب چھُنہٕ",
+  "incomplete": "نامکمل اندازٕ", "source": "ماخذ", "observationDate": "مشاہدٕچ تاریخ",
+  "machineNotice": "مشینی ترجمہ۔ زبان زانن والیو چھُ نہٕ یتھ نظرثانی کٔرمُت۔",
+  "partial": "جزوی ترجمہ", "selectOption": "اکھ اختیار ژٲریو"
+}

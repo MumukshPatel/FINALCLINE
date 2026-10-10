@@ -1,0 +1,11 @@
+{
+  "language": "राव", "required": "गोनां", "optional": "सायखनो हानाय",
+  "village": "गामि एबा जायगा", "state": "राज्य", "district": "जिल्ला",
+  "crop": "फसल", "variety": "जात", "quantity": "बिबां", "unit": "एकक",
+  "kg": "किलोग्राम (kg)", "quintal": "क्विन्टाल (100 kg)", "tonne": "टन (1,000 kg)", "bag": "बस्ता",
+  "transportMode": "माल लांनायनि राहा", "selling": "मजुरि आरो फाननायनि खरसा",
+  "amount": "रांनि बिबां (₹)", "unknown": "मिथियै", "unavailable": "मोननो गैयै",
+  "incomplete": "आबुं नङै अन्दाज", "source": "फुंखा", "observationDate": "नोजोर होनायनि अक्ट'",
+  "machineNotice": "मेसिनजों राव सोलायनाय। राव मिथिगिरिफोरजों आनजाद खालामनाय जायाखै।",
+  "partial": "खावसे राव सोलायनाय", "selectOption": "मोनसे सायख"
+}
